@@ -48,12 +48,12 @@ Fractal names
 Controls
 
 ```
-	Movements:	[W] [A] [S] [D]
-			[^] [<] [v] [>]
-	Zoom:		mouse wheel
-	Iterations:	[+] [-]
-	Color:		[C]
-	Exit:		[esc]
+   Movements:	[W] [A] [S] [D]
+		[^] [<] [v] [>]
+   Zoom:	mouse wheel
+   Iterations:	[+] [-]
+   Color:	[C]
+   Exit:	[esc]
 ```
 ___
 
