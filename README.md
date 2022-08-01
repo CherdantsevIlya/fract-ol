@@ -4,23 +4,6 @@
 
 ___
 
-## :memo: **About**
-
-_Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX._
-
-### *Objectives*  
-> + 2D programming
-> + Optimization techniques
-> + Some Maths
-
-### *Skills*
-> + Graphics
-> + Imperative programming
-
-For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/fract-ol/blob/master/content/en.subject.pdf)
-
-___
-
 ## 🚀 **Description**
 
 The term fractal was ﬁrst used by mathematician Benoit Mandelbrot in 1974, he based it on the Latin word fractus, meaning "broken" or "fractured". _**A fractal is an abstract mathematical object, like a curve or a surface, which has a similar pattern whatever the scale**_.
@@ -55,6 +38,9 @@ Controls
    Color:	[C]
    Exit:	[esc]
 ```
+
+###### *For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/fract-ol/blob/master/content/en.subject.pdf).*
+
 ___
 
 ## 🌳 **Fractals**
